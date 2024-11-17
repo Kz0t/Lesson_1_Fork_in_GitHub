@@ -1,4 +1,4 @@
 def summ_num(a, b):
     return a + b
 
-print(summ_num (3,7))
+print(sum_num (3,7))
