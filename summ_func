@@ -1,4 +1,5 @@
-def summ_num():
-  a + b
+def summ_num(a,b):
+  return a + b
 
-print(sum_num)
+
+print(sum_num(1,5))
